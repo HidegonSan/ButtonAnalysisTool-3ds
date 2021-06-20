@@ -12,6 +12,7 @@ end
 
 
 -- Function to convert button code
+-- (C) 2021 Hidegon
 function buttonAnalysis(code)
 
     -- fix the format
