@@ -69,4 +69,5 @@ def buttonAnalysis(code):
 
 	return " + ".join(ret)
 
+
 # (C) 2021 Hidegon
