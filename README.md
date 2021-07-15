@@ -14,5 +14,3 @@ The following languages are currently supported.
 ---
 
 The languages we plan to support are as follows.
-
-・C
