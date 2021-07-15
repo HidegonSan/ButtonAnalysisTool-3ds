@@ -67,6 +67,6 @@ def buttonAnalysis(code):
 
 	ret.reverse()
 
-	return ret
+	return " + ".join(ret)
 
 # (C) 2021 Hidegon
