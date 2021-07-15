@@ -88,7 +88,3 @@ function buttonAnalysis(code)
 
     return table.concat(reverseTable(ret), " + ")
 end
-
-
-
-print(buttonAnalysis("00008403"))  -- A + B + X + ZR
