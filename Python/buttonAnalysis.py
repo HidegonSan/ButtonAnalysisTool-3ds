@@ -60,9 +60,9 @@ def buttonAnalysis(code):
 		"A",
 	)
 
-	for button, code_number in zip(buttons, codes):
-		if baseCode >= code_number:
-			baseCode -= code_number
+	for button, codeNumber in zip(buttons, codes):
+		if baseCode >= codeNumber:
+			baseCode -= codeNumber
 			ret.append(button)
 
 	ret.reverse()
