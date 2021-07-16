@@ -62,15 +62,14 @@ def buttonAnalysis(code)
 	]
 
 	for i in 0..22 do
-	     code = codes[i]
-		if baseCode >= code
-			baseCode -= code
+	     codeNumber = codes[i]
+		if baseCode >= codeNumber
+			baseCode -= codeNumber
 			ret.push(buttons[i])
 		end
 	end
 
 	return ret.reverse.join(" + ")
 end
-
 
 # (C) 2021 Hidegon
