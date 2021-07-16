@@ -9,8 +9,9 @@ The following languages are currently supported.
 ```
 ・Python  
 ・JavaScript  
-・Lua  
 ・Ruby
+・PHP
+・Lua  
 ```
 ---
 The languages we plan to support are as follows.  
