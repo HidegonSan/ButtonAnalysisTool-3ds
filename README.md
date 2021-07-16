@@ -15,8 +15,9 @@ The following languages are currently supported.
 ・Ruby
 ・PHP
 ・Lua  
+・Perl
 ```
 The languages we plan to support are as follows.  
 ```
-・Perl
+・
 ```
