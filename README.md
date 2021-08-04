@@ -11,6 +11,7 @@ This is because I cannot use compiler languages.
 The following languages are currently supported.
 ```
 ・Python  
+・C++  
 ・JavaScript  
 ・Ruby
 ・PHP
