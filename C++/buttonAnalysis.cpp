@@ -90,3 +90,5 @@ std::string buttonAnalysis(std::string code) {
 	std::reverse(ret.begin(), ret.end());
 	return join(ret, " + ");
 }
+
+// (C) 2021 Hidegon
