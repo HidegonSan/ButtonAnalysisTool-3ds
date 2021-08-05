@@ -22,3 +22,11 @@ The languages we plan to support are as follows.
 ```
 ・
 ```
+The languages that I would like to support but cannot due to my lack of skills are as follows.
+```
+・Bash (I can't understand String (Hex) -> Int)
+```
+Languages that will not be supported are as follows.
+```
+・C
+```
