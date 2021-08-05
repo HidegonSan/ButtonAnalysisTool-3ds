@@ -25,7 +25,7 @@ std::string buttonAnalysis(std::string code) {
 		code = code.substr(0, 4) + "0" + code.substr(5);
 	}
 
-	int baseCode = std::stoi(code, nullptr, 16);
+	double baseCode = std::stoi(code, nullptr, 16);
 	std::vector<std::string> ret;
 
 	double codes[] = {
